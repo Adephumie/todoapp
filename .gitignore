@@ -1,0 +1,4 @@
+env/
+.DS_Store
+mylist/__pycache__
+todolist/__pycache__
